@@ -1,10 +1,11 @@
-# [Your Name] - Data Analysis Portfolio
+# Okafor Sopuluchukwu.T - Data Analysis Portfolio
 
 Welcome! This repository contains the complete template for a professional, one-page data analysis portfolio website, hosted for free on GitHub Pages.
 
 ## About This Portfolio Template
 
 This portfolio is designed to demonstrate skills in:
+- Data cleaning and Transformation
 - Data visualization and storytelling
 - Data modeling and analysis
 - Creating interactive, professional dashboards
@@ -12,26 +13,37 @@ This portfolio is designed to demonstrate skills in:
 
 ## 🚀 Projects
 
+- General Ledger Financial Report
+- Customer Segmentation
+- Patients Record
+- Retail SQL Analytics
+- HR Analytics
+- Maven Marketing Campaign
+- Restaurant Ratings etc
 This template is set up to showcase your best work. You can easily customize the project cards in the `index.html` file.
 
 ### Project Title One
-*A brief description of your project, the tools used, and the key insights derived.*
+📊 Retail Sales & Customer Segmentation
+Designed an end-to-end retail sales project using SQL and Power BI. Conducted data cleaning, created RFM customer segmentation, and developed an interactive dashboard to track KPIs.
 
 ### Project Title Two
-*A brief description of your project, the tools used, and the key insights derived.*
+💰 General Ledger & Financial Reporting
+Built a financial reporting system in Excel using a raw general ledger dataset. Organized accounts, automated aggregations with formulas and PivotTables, and created a structured financial statement to track Profit & loss
 
 ### Project Title Three
-*A brief description of your project, the tools used, and the key insights derived.*
+🏥 Hospital Patient Records Analysis
+This project explores a dataset of ~1,000 hospital patient records (2011–2022), covering demographics, insurance coverage, medical encounters, and procedures. Using Power Query for data transformation and Power BI for visualization, the analysis uncovers insights into:
+Patient admissions and hospital stay patterns, Medical costs, insurance and Trends
 
 
 ## 🛠️ Skills
 
 Update the `index.html` file to reflect your personal technical skillset. The template is organized into key categories:
 
-- **Data Visualization**: Power BI, Tableau, Matplotlib, etc.
-- **Data Analysis**: SQL, Python (Pandas), R, Excel, etc.
-- **Data Modeling**: Power Query, DAX, Star Schema Design, etc.
-- **Tools**: List any other relevant tools like Power BI Service, specific cloud platforms, etc.
+- **Data Visualization**: Power BI, Excel etc.
+- **Data Analysis**: SQL, Excel, etc.
+- **Data Modeling**: Power Query, DAX, Schema Design, etc.
+- **Tools**: PowerBI Service (Cloud publishing), PivotTable etc.
 
 ## 💡 How to Use This Template
 
