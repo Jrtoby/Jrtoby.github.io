@@ -35,6 +35,10 @@ Built a financial reporting system in Excel using a raw general ledger dataset. 
 This project explores a dataset of ~1,000 hospital patient records (2011–2022), covering demographics, insurance coverage, medical encounters, and procedures. Using Power Query for data transformation and Power BI for visualization, the analysis uncovers insights into:
 Patient admissions and hospital stay patterns, Medical costs, insurance and Trends
 
+### Project Title four
+👨‍💻Human Resources Data Analysis
+The analysis provided actionable insights into workforce dynamics, helping identify strengths (e.g., effective recruitment channels) and areas of concern (e.g., pay inequities). This can guide HR in improving retention, ensuring equity, and enhancing workforce diversity.
+Excel (PivotTables, Charts, Conditional Formatting, Statistical Functions and comparative analysis) for Data cleaning and preprocessing.
 
 ## 🛠️ Skills
 
